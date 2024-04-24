@@ -3,6 +3,16 @@ Repo for all p5js_sketches from 2021
 
 Ported to Github in 2024
 
+## Reccomendations
+- [Troubled Waters](https://editor.p5js.org/cgregori/full/y6gVgs_PL)
+  + Bullet hell game
+- [Boids](https://editor.p5js.org/cgregori/full/py1rtUxvw)
+  + Artificial Life Program, Emergent Behavior
+  + More Info:
+    * https://en.wikipedia.org/wiki/Boids
+    * https://www.red3d.com/cwr/boids/
+    * https://thecodingtrain.com/challenges/124-flocking-simulation
+
 ## Live Links
 - [Troubled Waters](https://editor.p5js.org/cgregori/full/y6gVgs_PL)
   + Bullet hell game
